@@ -1,0 +1,126 @@
+giornata,squadra casa,goal casa,squadra ospite,goal ospite
+1,River Plè,2,Pescaramanzia,0
+1,Pro VerCella,1,SAMBUCA JUNIORS,2
+1,Te bele vint,4,Bubacar,1
+1,Real Maivint,2,FC VAGINA,2
+1,Lesaster City FC,1,Como Etilico,0
+2,Pescaramanzia,0,Pro VerCella,2
+2,Como Etilico,1,Real Maivint,0
+2,FC VAGINA,1,Te bele vint,2
+2,Bubacar,0,River Plè,0
+2,SAMBUCA JUNIORS,1,Lesaster City FC,
+3,Lesaster City FC,2,Pescaramanzia,3
+3,Real Maivint,1,SAMBUCA JUNIORS,3
+3,Pro VerCella,1,Bubacar,2
+3,Te bele vint,1,River Plè,0
+3,FC VAGINA,2,Como Etilico,1
+4,River Plè,1,Pro VerCella,3
+4,SAMBUCA JUNIORS,2,FC VAGINA,1
+4,Pescaramanzia,1,Real Maivint,1
+4,Como Etilico,3,Te bele vint,0
+4,Bubacar,2,Lesaster City FC,2
+5,FC VAGINA,0,Pescaramanzia,0
+5,Como Etilico,2,SAMBUCA JUNIORS,1
+5,Te bele vint,0,Pro VerCella,1
+5,Real Maivint,0,Bubacar,0
+5,Lesaster City FC,1,River Plè,3
+6,Bubacar,1,FC VAGINA,0
+6,River Plè,1,Real Maivint,1
+6,SAMBUCA JUNIORS,2,Te bele vint,0
+6,Pro VerCella,1,Lesaster City FC,1
+6,Pescaramanzia,0,Como Etilico,1
+7,SAMBUCA JUNIORS,1,Pescaramanzia,4
+7,Real Maivint,1,Pro VerCella,2
+7,Como Etilico,0,Bubacar,1
+7,FC VAGINA,0,River Plè,1
+7,Te bele vint,4,Lesaster City FC,2
+8,Te bele vint,1,Pescaramanzia,1
+8,Bubacar,0,SAMBUCA JUNIORS,0
+8,Pro VerCella,1,FC VAGINA,0
+8,Lesaster City FC,0,Real Maivint,2
+8,River Plè,2,Como Etilico,0
+9,Como Etilico,1,Pro VerCella,0
+9,Pescaramanzia,1,Bubacar,1
+9,Real Maivint,0,Te bele vint,1
+9,SAMBUCA JUNIORS,1,River Plè,1
+9,FC VAGINA,1,Lesaster City FC,1
+10,Pescaramanzia,0,River Plè,1
+10,SAMBUCA JUNIORS,1,Pro VerCella,3
+10,Bubacar,2,Te bele vint,0
+10,FC VAGINA,3,Real Maivint,3
+10,Como Etilico,0,Lesaster City FC,2
+11,Pro VerCella,0,Pescaramanzia,2
+11,Real Maivint,1,Como Etilico,1
+11,Te bele vint,1,FC VAGINA,3
+11,River Plè,3,Bubacar,1
+11,Lesaster City FC,2,SAMBUCA JUNIORS,1
+12,Pescaramanzia,1,Lesaster City FC,4
+12,SaMBUCA JUNIORS,2,Real Maivint,1
+12,Bubacar,0,Pro VerCella,2
+12,River Plè,1,Te bele vint,3
+12,Como Etilico,0,FC VAGINA,1
+13,Pro VerCella,2,River Plè,0
+13,FC VAGINA,2,SAMBUCA JUNIORS,1
+13,Real Maivint,1,Pescaramanzia,0
+13,Te bele vint,0,Como Etilico,0
+13,Lesaster City FC,1,Bubacar,1
+14,Pescaramanzia,1,FC VAGINA,1
+14,SaMBUCA JUNIORS,2,Como Etilico,0
+14,Pro VerCella,2,Te bele vint,3
+14,Bubacar,3,Real Maivint,0
+14,River Plè,2,Lesaster City FC,2
+15,FC VAGINA,4,Bubacar,1
+15,Real Maivint,3,River Plè,1
+15,Te bele vint,0,SAMBUCA JUNIORS,1
+15,Lesaster City FC,4,Pro VerCella,2
+15,Como Etilico,0,Pescaramanzia,1
+16,Pescaramanzia,2,SAMBUCA JUNIORS,2
+16,Pro VerCella,1,Real Maivint,1
+16,Bubacar,0,Como Etilico,0
+16,River Plè,2,FC VAGINA,1
+16,Lesaster City FC,1,Te bele vint,1
+17,Pescaramanzia,2,Te bele vint,2
+17,SaMBUCA JUNIORS,2,Bubacar,2
+17,FC VAGINA,1,Pro VerCella,2
+17,Real Maivint,1,Lesaster City FC,2
+17,Como Etilico,1,River Plè,4
+18,Pro VerCella,2,Como Etilico,0
+18,Bubacar,3,Pescaramanzia,2
+18,Te bele vint,1,Real Maivint,2
+18,River Plè,2,SAMBUCA JUNIORS,2
+18,Lesaster City FC,1,FC VAGINA,2
+19,River Plè,1,Pescaramanzia,0
+19,Pro VerCella,0,SAMBUCA JUNIORS,1
+19,Te bele vint,0,Bubacar,1
+19,Real Maivint,3,FC VAGINA,1
+19,Lesaster City FC,1,Como Etilico,1
+20,Pescaramanzia,0,Pro VerCella,3
+20,Como Etilico,1,Real Maivint,2
+20,FC VAGINA,3,Te bele vint,2
+20,Bubacar,3,River Plè,2
+20,SaMBUCA JUNIORS,3,Lesaster City FC,3
+21,Lesaster City FC,3,Pescaramanzia,0
+21,Real Maivint,0,SAMBUCA JUNIORS,4
+21,Pro VerCella,0,Bubacar,1
+21,Te bele vint,0,River Plè,0
+21,FC VAGINA,2,Como Etilico,3
+22,River Plè,1,Pro VerCella,2
+22,SAMBUCA JUNIORS,2,FC VAGINA,2
+22,Pescaramanzia,3,Real Maivint,3
+22,Como Etilico,0,Te bele vint,1
+22,Bubacar,2,Lesaster City FC,3
+23,FC VAGINA,2,Pescaramanzia,2
+23,Como Etilico,1,SAMBUCA JUNIORS,1
+23,Te bele vint,2,Pro VerCella,2
+23,Real Maivint,0,Bubacar,2
+23,Lesaster City FC,2,River Plè,0
+24,Bubacar,2,FC VAGINA,1
+24,River Plè,1,Real Maivint,1
+24,SAMBUCA JUNIORS,1,Te bele vint,1
+24,Pro VerCella,2,Lesaster City FC,1
+24,Pescaramanzia,1,Como Etilico,0
+25,SAMBUCA JUNIORS,1,Pescaramanzia,0
+25,Real Maivint,1,Pro VerCella,2
+25,Como Etilico,0,Bubacar,0
+25,FC VAGINA,1,River Plè,1
+25,Te bele vint,0,Lesaster City FC,2
